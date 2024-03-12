@@ -3,7 +3,7 @@
 ## Linguagem de Programação Python |
 Introdução a Linguagem de Programação Python abrangendo toda a sua estrutura principal.
 
-### PARTE 01
+### Primeiro Módulo
 
  - **INTRODUÇÃO**
    > características da Linguagem de Programação Python,  o uso de identação, a construção de comentários e as boas práticas de estilização
@@ -14,7 +14,7 @@ Introdução a Linguagem de Programação Python abrangendo toda a sua estrutura
  - **ESTRUTURA DE DADOS**
    >  manipulação de strings, coleções de dados em formato de listas, coleções de dados em formato de dicionários, interação com arquivos
 
-### PARTE 02
+### Segundo Módulo
 
  - **MODULARIZAÇÃO**
    > formas de definição de funções, construção e funcionamento de funções com e sem retorno e funções com e sem parâmetros, namespaces,
@@ -23,7 +23,7 @@ Introdução a Linguagem de Programação Python abrangendo toda a sua estrutura
   -  **ERROS E TRATAMENTO DE EXCEÇÕES**
 	   > levantamento de erros, elementos para tratamento de exceções.
 
-### PARTE 03
+### Terceiro Módulo
 - **INTERAÇÃO COM ARQUIVOS**
 	> interação com diferentes tipos de arquivos, arquivos texto, arquivos em formato CSV e em formato JSON.
 
