@@ -1,4 +1,4 @@
-<h1>Exercícios do Primeiro Módulo</h1>
+<h1>Exercícios do Segundo Módulo</h1>
 
 ## Exercício 01
 Escreva uma função que recebe uma lista e um valor e retorna uma sub-lista apenas com os elementos menores do que o valor fornecido.
