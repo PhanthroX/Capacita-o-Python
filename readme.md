@@ -1,5 +1,12 @@
 <h1>📢INTRODUÇÃO</h1>
 
+# 💻 &nbsp; Jornada RPA - Curso Python
+---  
+
+> *Este material foi revisado e estruturado didaticamente para a capacitação Jornada RPA da DB Assessoria em Sistemas de Informação.
+O objetivo geral é guiar a introdução na (ou revisão da) Linguagem de Programação Python para que possamos seguir compreender exemplos e construir práticas de automação robótica de processos.*
+>
+
 <h2>A linguagem Python</h2>
 
 A Linguagem de Programação Python foi criada em 1991 pelo matemático holandês Guido Van Rossum. Trata-se uma linguagem multiparadignma, ou seja, suporta tanto o paradigma orientado a objetos, quanto procedural e funcional. 
