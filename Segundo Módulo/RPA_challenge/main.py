@@ -15,6 +15,7 @@ print(df_registros.head())
 # Configurar Navegação
 chrome_options = webdriver.ChromeOptions()
 chrome_options.add_argument("--start-maximized")
+# Importação do Chrome test e Chrome Driver. Por se tratar de um arquivo muito grande não foi possível adicionar o arquivo aqui.
 chrome_options.binary_location = "Segundo Módulo/RPA_challenge/chrome-win64/chrome-win64/chrome.exe"
 chrome_driver_path = "Segundo Módulo/RPA_challenge/chromedriver-win64/chromedriver-win64/chromedriver.exe"
 service_options = webdriver.ChromeService(executable_path=chrome_driver_path)
