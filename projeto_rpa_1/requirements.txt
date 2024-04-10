@@ -1,0 +1,12 @@
+selenium
+pandas
+openpyxl
+pyscreenshot
+pyautogui
+psutil
+pillow
+pywin32
+keyboard
+keyring
+logging
+pyscreenshot
